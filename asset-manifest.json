@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ANAtOLIA/static/css/main.10bfda34.css",
+    "main.js": "/ANAtOLIA/static/js/main.1e989c19.js",
+    "index.html": "/ANAtOLIA/index.html",
+    "main.10bfda34.css.map": "/ANAtOLIA/static/css/main.10bfda34.css.map",
+    "main.1e989c19.js.map": "/ANAtOLIA/static/js/main.1e989c19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10bfda34.css",
+    "static/js/main.1e989c19.js"
+  ]
+}
